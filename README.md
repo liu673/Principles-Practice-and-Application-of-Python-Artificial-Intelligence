@@ -25,4 +25,4 @@ pip install -r requirements.txt
 If you like this project, please give it a star  ⭐️.
 
 ## License
-This project is licensed under the [MIT](https://github.com/liu673/Python-AI-Practice/blob/main/LICENSE) .
+This project is licensed under the [MIT](https://github.com/liu673/Principles-Practice-and-Application-of-Python-Artificial-Intelligence/blob/master/LICENSE) .
